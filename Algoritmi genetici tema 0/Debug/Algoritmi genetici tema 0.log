@@ -1,0 +1,14 @@
+﻿  Algoritmigeneticitema0.cpp
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(42): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(95): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(96): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(125): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manol\source\repos\algoritmi genetici tema 0\algoritmi genetici tema 0\algoritmigeneticitema0.cpp(126): warning C4305: '=': truncation from 'double' to 'float'
+  Algoritmi genetici tema 0.vcxproj -> C:\Users\manol\source\repos\Algoritmi genetici tema 0\Debug\Algoritmi genetici tema 0.exe
+  Algoritmi genetici tema 0.vcxproj -> C:\Users\manol\source\repos\Algoritmi genetici tema 0\Debug\Algoritmi genetici tema 0.pdb (Partial PDB)
